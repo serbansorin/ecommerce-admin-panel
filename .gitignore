@@ -1,0 +1,38 @@
+# Laravel specific files/directories
+.env
+vendor/
+node_modules/
+public/storage
+/storage/framework/cache
+/storage/framework/sessions
+/storage/framework/testing
+/storage/framework/views
+/storage/logs
+/storage/app/public
+/storage/app/backup
+
+# Laravel Mix
+/public/css/
+/public/js/
+/mix-manifest.json
+
+# Laravel specific files/directories
+.env.backup
+
+# Laravel Mix
+/public/css/
+/public/js/
+/mix-manifest.json
+
+# Testing
+/phpunit.xml
+/tests/
+
+# IDE specific files/directories
+.idea/
+.vscode/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
