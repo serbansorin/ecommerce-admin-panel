@@ -7,5 +7,6 @@
 - Order Management
   
 ### Tech Stack
-- Laravel 6 (Backend)
-TODO: redo project with laravel 10 and VueJS
+- Laravel 6 (used as Full-Stack with Blade templating system)
+  
+**TODO:** redo project with laravel 10 and VueJS
